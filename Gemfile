@@ -33,7 +33,7 @@ group :doc do
 end
 
 gem "paperclip"
-
+gem 'aws-sdk'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
 
